@@ -45,11 +45,4 @@ The generated data includes authentic Sri Lankan elements:
 - Notary and witness information
 - Boundary descriptions (North, South, East, West)
 
-## Customization
 
-You can modify the script to:
-- Change the number of records (default: 250)
-- Adjust date ranges
-- Add more districts or deed types
-- Modify property value ranges
-- Include additional fields specific to your research
